@@ -15,8 +15,11 @@ A decision-support app. You enter two options, and it returns a recommendation b
 Next.js, TypeScript, Supabase, Gemini API
 
 <p>
-  <img src="assets/solet.png" alt="Solet landing page" width="49%">
-  <img src="assets/solet2.png" alt="Solet Lab: dilemma input and analysis matrix" width="49%">
+  
+  <img width="520" height="439" alt="solet" src="https://github.com/user-attachments/assets/16de4ec9-7052-480d-ad3f-5f00f05471dc" />
+ <img width="742" height="405" alt="solet2" src="https://github.com/user-attachments/assets/3acfc9c9-3e13-465c-88f4-2a64d98bbd63" />
+
+
 </p>
 
 **[ProWork](https://github.com/ShubhAFK/ProWork)**
