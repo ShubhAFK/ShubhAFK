@@ -14,11 +14,20 @@ A decision-support app. You enter two options, and it returns a recommendation b
 
 Next.js, TypeScript, Supabase, Gemini API
 
+<p>
+  <img src="assets/solet.png" alt="Solet landing page" width="49%">
+  <img src="assets/solet2.png" alt="Solet Lab: dilemma input and analysis matrix" width="49%">
+</p>
+
 **[ProWork](https://github.com/ShubhAFK/ProWork)**
 
 A team project tracker for Android, iOS and web from one Flutter codebase. Real-time sync, admin and member roles, goal checklists and contribution tracking. Used by 50+ teams.
 
 Flutter, Firebase Firestore
+
+<p>
+  <img src="assets/Prowork.jpeg" alt="ProWork login screen with admin and team member roles" width="240">
+</p>
 
 **Affiliate site (WordPress)**
 
