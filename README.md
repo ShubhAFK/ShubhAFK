@@ -17,7 +17,7 @@ Next.js, TypeScript, Supabase, Gemini API
 <p>
 
    <img width="742" height="405" alt="solet2" src="https://github.com/user-attachments/assets/3acfc9c9-3e13-465c-88f4-2a64d98bbd63" />
-   
+   ####
   <img width="520" height="439" alt="solet" src="https://github.com/user-attachments/assets/16de4ec9-7052-480d-ad3f-5f00f05471dc" />
 
 
