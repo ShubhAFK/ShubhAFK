@@ -7,7 +7,7 @@ First-year Computer Science student at Bharati Vidyapeeth College of Engineering
 
 ## Projects
 
-**[Solet] ([YOUR_SOLET_GITHUB_LINK] (https://github.com/ShubhAFK/Solet))** ([live] ([YOUR_SOLET_LIVE_LINK](https://euphonious-pony-a76278.netlify.app/)))
+**[Solet] (https://github.com/ShubhAFK/Solet)** ([live] (https://euphonious-pony-a76278.netlify.app/)
 A decision-support app. You enter two options, and it returns a recommendation based on a three-factor score (logic, responsibility, well-being) plus a confidence index. About 400 users. Average response time is 1 to 1.5 seconds, load-tested at roughly 15 requests per minute with Autocannon. I built the UI, API routes, database schema and auth myself.
 Next.js, TypeScript, Supabase, Gemini API
 
